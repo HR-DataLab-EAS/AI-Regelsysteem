@@ -1,0 +1,22 @@
+# Dit bestand is bedoeld om de afhankelijkheden van het project te specificeren.
+# Het wordt gebruikt door pip om de vereiste pakketten te installeren.
+# Je kunt de afhankelijkheden installeren met het volgende commando:
+# pip install -r requirements.txt
+# Zorg ervoor dat je dit bestand up-to-date houdt met de nieuwste afhankelijkheden.
+# Voorbeeld afhankelijkheden
+# Je kunt hieronder je project-specifieke afhankelijkheden toevoegen.
+# numpy==1.24.2
+# requests>=2.26.0,<3.0.0
+# pandas>=1.5.0
+# flask<3.0.0
+
+
+
+
+
+numpy
+pandas
+tensorflow
+sklearn
+matplotlib
+scikit-learn
