@@ -17,6 +17,8 @@ De regeling van de ventilatorsnelheid gebeurt momenteel met een PID-regelaar (*P
 De begeleidende docent heeft daarom de vraag gesteld of deze traditionele regelmethode kan worden vervangen door een benadering gebaseerd op *machine learning*. Machine learning biedt de mogelijkheid om op basis van data te leren hoe het systeem zich moet gedragen. In dit project wordt onderzocht of het mogelijk is een machine learning-model te ontwikkelen dat het gedrag van de PID-regelaar kan nabootsen of zelfs verbeteren.  
 
 > ℹ️ Let op: dit project is nog in ontwikkeling.
+
+> Deze repository is nog in de beginfase en zal in de loop van de tijd worden uitgebreid met meer documentatie, code en resultaten.
   
 # Inhoudsopgave
 - [Inhoudsopgave](#inhoudsopgave)
@@ -32,8 +34,7 @@ De begeleidende docent heeft daarom de vraag gesteld of deze traditionele regelm
 # Projectdoelen
 
 - ✅ Eerste AI-model gebaseerd op PID-regelaar
-- ✅ PID simulatie
-- ✅ Datasetverzameling
+- ✅ PID simulatie met dataverzameling
 - 🔜 Hardware-integratie
 
 # Gebruik
