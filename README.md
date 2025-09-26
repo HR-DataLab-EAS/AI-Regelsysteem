@@ -3,10 +3,10 @@
   <img src="Archive/img/AIregelsysteem_logo.svg">
 </div>
 
-![Python](https://img.shields.io/badge/Python-3.10-brightgreen)
-![License: MIT](https://img.shields.io/badge/License-...-blue.svg)
-![NXP FRDM-MCXN947](https://img.shields.io/badge/NXP-FRDM_MCXN947-blue.svg)
-![Tensorflow](https://img.shields.io/badge/Tensorflow-orange.svg)
+
+![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-brightgreen.svg)
+[![NXP FRDM-MCXN947](https://img.shields.io/badge/NXP-FRDM_MCXN947-blue.svg)](https://www.nxp.com/design/development-boards/freedom-development-boards/freedom-development-platform-for-mcx-n-series:FRDM-MCXN947)
+[![Tensorflow](https://img.shields.io/badge/Tensorflow-orange.svg)](https://www.tensorflow.org/)
 
 **Welkom bij de repository van het HR Datalab voor het project *AI-regelsysteem*.**
 
@@ -57,8 +57,8 @@ Omdat dit project over meerdere semesters en groepen verdeeld is, hebben we een 
 
 | Projectgroep | Periode    | Bijdrage                                | Link/Bestanden              |
 |--------------|------------|------------------------------------------|------------------------------|
-| Groep A      | Q1_2025 - Q2_2025  | Eerste AI-model + datasetverzameling + Simulatie PID         | [`/docs/groepA/`](docs/groepA) |
-| Groep B  (huidige)    | Q3_2025 - Q4_2025  |      | [`/docs/groepB/`](docs/groepB) |
+| Groep A      | Q1_2025 - Q2_2025  | Eerste AI-model + datasetverzameling + Simulatie PID         | [`/docs/groepA/`](docs/Groep_A) |
+| Groep B  (huidige)    | Q3_2025 - Q4_2025  |      | [`/docs/groepB/`](docs/Groep_B) |
 
 # Auteurs / Credits
 
@@ -67,24 +67,23 @@ Omdat dit project over meerdere semesters en groepen verdeeld is, hebben we een 
 
   | Naam          | Rol               | Contact                |
 |---------------|-------------------------------|------------------------|
-| Groot Nibbelink     | Project-begeleider          | [email@example.com](mailto:email@example.com) |
-| Mitchel Reints     | Junior tech lead       | [email@example.com](mailto:email@example.com)                   |
+| Groot Nibbelink     | Project begeleider          | [s.groot.nibbelink@hr.nl](mailto:s.groot.nibbelink@hr.nl) |
+| Mitchel Reints     | Junior tech lead       | [1040953@hr.nl](mailto:1040953@hr.nl)                   |
 
 
 </details>
 <details>
+
   <summary>Groep A</summary>
 
   | Naam          | Rol / Bijdrage                | Contact                |
 |---------------|-------------------------------|------------------------|
-| Student A     | AI-model & simulatie          | [email@example.com](mailto:email@example.com) |
-| Student B     | Hardware-implementatie        | -                      |
-| Student C     | Documentatie & tests          | -                      |
-| Student D     | Documentatie & tests          | -                      |
+| Mitchel Reints     | AI-model & simulatie          | [1040953@hr.nl](mailto:1040953@hr.nl) |
+| Thomas van Ommeren     | Hardware-implementatie        | [1033239@hr.nl](mailto:1033239@hr.nl) |
+| Yered Scheffer     | eIQ Toolkit          | [1048873@hr.nl](mailto:1048873@hr.nl) |
+| Piet Poot     | eIQ Toolkit & Hardware          | [1023763@hr.nl](mailto:1023763@hr.nl) |
 
 </details>
-
-
 
 # Contributie
 
@@ -92,7 +91,7 @@ Pull requests zijn welkom! Volg alstublieft onze [contributie-richtlijnen](CONTR
 
 # Licentie
 
-Dit project valt onder de ...-licentie. Zie [LICENSE](LICENSE).
+Dit project valt onder de Apache 2.0 licentie. Zie [LICENSE](LICENSE).
 
 <br>
 
